@@ -14,6 +14,8 @@ Harshit Kumar, Arvind Agarwal, Sachindra Joshi. 2018. [Dialogue-act-driven Conve
 
 Stefano Mezza, Alessandra Cervone, Giuliano Tortoreto, Evgeny A. Stepanov, Giuseppe Riccardi. 2018. [ISO-Standard Domain-Independent Dialogue Act Tagging for Conversational Agents.](https://github.com/threelittlemonkeys/dialogue-act/blob/master/references/mezza_et_al_2018.pdf) In Proceedings of the 27th International Conference on Computational Linguistics.
 
+Silvia Pareti, Tatiana Lando. 2018. [Dialog Intent Structure: A Hierarchical Schema of Linked Dialog Acts.](https://github.com/threelittlemonkeys/dialogue-act/blob/master/references/pareti_et_al_2018.pdf) In LREC.
+
 Andrei Popescu-Belis. 2007. [Dialogue Acts: One or More Dimensions?](https://github.com/threelittlemonkeys/dialogue-act/blob/master/references/popescu-belis_2007.pdf) ISSCO Working Paper 62.
 
 Andreas Stolcke, Klaus Ries, Noah Coccaro, Elizabeth Shriberg, Rebecca A. Bates, Daniel Jurafsky, Paul Taylor, Rachel Martin, Carol Van Ess-Dykema, Marie Meteer. 2000. [Dialogue Act Modeling for Automatic Tagging and Recognition of Conversational Speech.](https://github.com/threelittlemonkeys/dialogue-act/blob/master/references/stolcke_et_al_2000.pdf) Computational Linguistics 26(3):339-373.
