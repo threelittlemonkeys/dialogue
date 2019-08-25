@@ -12,7 +12,9 @@ Tsuneo Kato, Atsushi Nagai, Naoki Noda, Ryosuke Sumitomo, Jianming Wu, Seiichi Y
 
 Su Nam Kim, Lawrence Cavedon, Timothy Baldwin. 2010. [Classifying Dialogue Acts in One-on-one Live Chats.](https://github.com/threelittlemonkeys/dialogue-act/blob/master/references/kim_et_al_2010.pdf) In EMNLP.
 
-Harshit Kumar, Arvind Agarwal, Sachindra Joshi. 2018. [Dialogue-act-driven Conversation Model: An Experimental Study.](https://github.com/threelittlemonkeys/dialogue-act/blob/master/references/kumar_et_al_2018.pdf) In COLING.
+Harshit Kumar, Arvind Agarwal, Riddhiman Dasgupta, Sachindra Joshi. 2018. [Dialogue Act Sequence Labeling Using Hierarchical Encoder with CRF.](https://github.com/threelittlemonkeys/dialogue-act/blob/master/references/kumar_et_al_2018a.pdf) In AAAI.
+
+Harshit Kumar, Arvind Agarwal, Sachindra Joshi. 2018. [Dialogue-act-driven Conversation Model: An Experimental Study.](https://github.com/threelittlemonkeys/dialogue-act/blob/master/references/kumar_et_al_2018b.pdf) In COLING.
 
 Stefano Mezza, Alessandra Cervone, Giuliano Tortoreto, Evgeny A. Stepanov, Giuseppe Riccardi. 2018. [ISO-Standard Domain-Independent Dialogue Act Tagging for Conversational Agents.](https://github.com/threelittlemonkeys/dialogue-act/blob/master/references/mezza_et_al_2018.pdf) In Proceedings of the 27th International Conference on Computational Linguistics.
 
