@@ -1,4 +1,4 @@
-# Dialogue Act
+# Dialogue
 
 ## References
 
