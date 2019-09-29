@@ -8,6 +8,10 @@ Harry Bunt. 2011. [The semantics of dialogue acts.](https://github.com/threelitt
 
 Harry Bunt, Volha Petukhova, Alex Fang. 2017. [Revisiting the ISO standard for dialogue act annotation.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/bunt_et_al_2017.pdf) In Proceedings of 13th Joint ISO-ACL Workshop on Interoperable Semantic Annotation.
 
+Zheqian Chen, Rongqin Yang, Zhou Zhao, Deng Cai, Xiaofei He. 2017. [Dialogue Act Recognition via CRF-Attentive Structured Network.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/chen_et_al_2017.pdf) arXiv:1711.05568.
+
+Jeroen Geertzen, Volha Petukhova, Harry Bunt. 2007. [A Multidimensional Approach to Utterance Segmentation and Dialogue Act Classification.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/geertzen_et_al_2007.pdf) In Proceedings of the 8th SIGDIAL Conference on Discourse and Dialogue.
+
 Tsuneo Kato, Atsushi Nagai, Naoki Noda, Ryosuke Sumitomo, Jianming Wu, Seiichi Yamamoto. 2017. [Utterance Intent Classification of a Spoken Dialogue System with Efficiently Untied Recursive Autoencoders.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/kato_et_al_2017.pdf) In SIGDIAL.
 
 Su Nam Kim, Lawrence Cavedon, Timothy Baldwin. 2010. [Classifying Dialogue Acts in One-on-one Live Chats.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/kim_et_al_2010.pdf) In EMNLP.
