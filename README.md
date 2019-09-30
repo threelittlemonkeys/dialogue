@@ -8,6 +8,8 @@ Harry Bunt. 2011. [The semantics of dialogue acts.](https://github.com/threelitt
 
 Harry Bunt, Volha Petukhova, Alex Fang. 2017. [Revisiting the ISO standard for dialogue act annotation.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/bunt_et_al_2017.pdf) In Proceedings of 13th Joint ISO-ACL Workshop on Interoperable Semantic Annotation.
 
+Jean Carletta, Amy Isard, Stephen Isard, Jacqueline C. Kowtko, Gwyneth Doherty-Sneddon, Anne H. Anderson. 1997. [The Reliability of a Dialogue Structure Coding Scheme.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/carletta_et_al_1997.pdf) Computational Linguistics 23(1):13-31.
+
 Zheqian Chen, Rongqin Yang, Zhou Zhao, Deng Cai, Xiaofei He. 2017. [Dialogue Act Recognition via CRF-Attentive Structured Network.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/chen_et_al_2017.pdf) arXiv:1711.05568.
 
 Jeroen Geertzen, Volha Petukhova, Harry Bunt. 2007. [A Multidimensional Approach to Utterance Segmentation and Dialogue Act Classification.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/geertzen_et_al_2007.pdf) In Proceedings of the 8th SIGDIAL Conference on Discourse and Dialogue.
