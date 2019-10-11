@@ -28,6 +28,8 @@ Stefano Mezza, Alessandra Cervone, Giuliano Tortoreto, Evgeny A. Stepanov, Giuse
 
 Silvia Pareti, Tatiana Lando. 2018. [Dialog Intent Structure: A Hierarchical Schema of Linked Dialog Acts.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/pareti_et_al_2018.pdf) In LREC.
 
+Livia Polanyi, Chris Culy, Martin van den Berg, Gian Lorenzo Thione, David Ahn. 2004. [A Rule Based Approach to Discourse Parsing.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/polanyi_et_al_2004.pdf) In Proceedings of the 5th SIGdial Workshop in Discourse and Dialogue.
+
 Andrei Popescu-Belis. 2007. [Dialogue Acts: One or More Dimensions?](https://github.com/threelittlemonkeys/dialogue/blob/master/references/popescu-belis_2007.pdf) ISSCO Working Paper 62.
 
 Vipul Raheja, Joel Tetreault. 2019. [Dialogue Act Classification with Context-Aware Self-Attention.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/raheja_et_al_2019.pdf) In NAACL-HLT.
