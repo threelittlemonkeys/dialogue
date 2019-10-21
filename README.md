@@ -34,6 +34,8 @@ Andrei Popescu-Belis. 2007. [Dialogue Acts: One or More Dimensions?](https://git
 
 Vipul Raheja, Joel Tetreault. 2019. [Dialogue Act Classification with Context-Aware Self-Attention.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/raheja_et_al_2019.pdf) In NAACL-HLT.
 
+Hannah Rashkin, Eric Michael Smith, Margaret Li, Y-Lan Boureau. 2019. [Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/rashkin_et_al_2019.pdf) In ACL.
+
 Andreas Stolcke, Klaus Ries, Noah Coccaro, Elizabeth Shriberg, Rebecca A. Bates, Daniel Jurafsky, Paul Taylor, Rachel Martin, Carol Van Ess-Dykema, Marie Meteer. 2000. [Dialogue Act Modeling for Automatic Tagging and Recognition of Conversational Speech.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/stolcke_et_al_2000.pdf) Computational Linguistics 26(3):339-373.
 
 Marilyn Walker, Rebecca Passonneau. 2001. [DATE: A Dialogue Act Tagging Scheme for Evaluation of Spoken Dialogue Systems.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/walker_et_al_2001.pdf) In Proceedings of the First International Conference on Human Language Technology Research (HLT).
