@@ -36,6 +36,8 @@ Vipul Raheja, Joel Tetreault. 2019. [Dialogue Act Classification with Context-Aw
 
 Hannah Rashkin, Eric Michael Smith, Margaret Li, Y-Lan Boureau. 2019. [Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/rashkin_et_al_2019.pdf) In ACL.
 
+Marcin Skowron, Stefan Rank, Aleksandra Świderska, Dennis Küster, Arvid Kappas. 2014. [Applying a Text-Based Affective Dialogue System in Psychological Research: Case Studies on the Effects of System Behavior, Interaction Context and Social Exclusion.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/skowron_et_al_2014.pdf) arXiv:1404.6938.
+
 Andreas Stolcke, Klaus Ries, Noah Coccaro, Elizabeth Shriberg, Rebecca A. Bates, Daniel Jurafsky, Paul Taylor, Rachel Martin, Carol Van Ess-Dykema, Marie Meteer. 2000. [Dialogue Act Modeling for Automatic Tagging and Recognition of Conversational Speech.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/stolcke_et_al_2000.pdf) Computational Linguistics 26(3):339-373.
 
 Marilyn Walker, Rebecca Passonneau. 2001. [DATE: A Dialogue Act Tagging Scheme for Evaluation of Spoken Dialogue Systems.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/walker_et_al_2001.pdf) In Proceedings of the First International Conference on Human Language Technology Research (HLT).
