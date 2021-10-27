@@ -41,3 +41,5 @@ Marcin Skowron, Stefan Rank, Aleksandra Świderska, Dennis Küster, Arvid Kappas
 Andreas Stolcke, Klaus Ries, Noah Coccaro, Elizabeth Shriberg, Rebecca A. Bates, Daniel Jurafsky, Paul Taylor, Rachel Martin, Carol Van Ess-Dykema, Marie Meteer. 2000. [Dialogue Act Modeling for Automatic Tagging and Recognition of Conversational Speech.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/stolcke_et_al_2000.pdf) Computational Linguistics 26(3):339-373.
 
 Marilyn Walker, Rebecca Passonneau. 2001. [DATE: A Dialogue Act Tagging Scheme for Evaluation of Spoken Dialogue Systems.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/walker_et_al_2001.pdf) In Proceedings of the First International Conference on Human Language Technology Research (HLT).
+
+Anuradha Welivita, Pearl Pu. 2020. [A Taxonomy of Empathetic Response Intents in Human Social Conversations.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/welivita_et_al_2020.pdf) In COLING.
