@@ -6,7 +6,7 @@ Harry Bunt, Jan Alexandersson, Jean Carletta, Jae-Woong Choe, Alex Chengyu Fang,
 
 Harry Bunt. 2011. [The semantics of dialogue acts.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/bunt_2011.pdf) In Proceedings of the 9th International Conference on Computational Semantics (IWCS).
 
-Harry Bunt, Jan Alexandersson, Jae-Woong Choe, Alex Chengyu Fang, Koiti Hasida, Volha Petukhova, Andrei Popescu-Belis, David Traum. 2012. [ISO 24617-2: A semantically-based standard for dialogue annotation.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/bunt_2012.pdf) In LREC.
+Harry Bunt, Jan Alexandersson, Jae-Woong Choe, Alex Chengyu Fang, Koiti Hasida, Volha Petukhova, Andrei Popescu-Belis, David Traum. 2012. [ISO 24617-2: A semantically-based standard for dialogue annotation.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/bunt_et_al_2012.pdf) In LREC.
 
 Harry Bunt, Volha Petukhova, Alex Fang. 2017. [Revisiting the ISO standard for dialogue act annotation.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/bunt_et_al_2017.pdf) In Proceedings of 13th Joint ISO-ACL Workshop on Interoperable Semantic Annotation.
 
