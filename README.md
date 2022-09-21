@@ -43,3 +43,5 @@ Andreas Stolcke, Klaus Ries, Noah Coccaro, Elizabeth Shriberg, Rebecca A. Bates,
 Marilyn Walker, Rebecca Passonneau. 2001. [DATE: A Dialogue Act Tagging Scheme for Evaluation of Spoken Dialogue Systems.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/walker_et_al_2001.pdf) In Proceedings of the First International Conference on Human Language Technology Research (HLT).
 
 Anuradha Welivita, Pearl Pu. 2020. [A Taxonomy of Empathetic Response Intents in Human Social Conversations.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/welivita_et_al_2020.pdf) In COLING.
+
+Dian Yu, Zhou Yu. 2021. [MIDAS: A Dialog Act Annotation Scheme for Open Domain Human Machine Spoken Conversations.](https://github.com/threelittlemonkeys/dialogue/blob/master/references/yu_et_al_2021.pdf) In EACL.
